@@ -1,4 +1,15 @@
-## Hi there 👋
+```javaScript
+const response = {
+status : 202,
+date:{
+  name:"Arian Nazari",
+  nickname: "<Ctrl+Z>",
+  birthDay: "",
+  skils:"JS, React, HTML, CSS, , ...",
+  university: "Azad Sari",
+  }
+}:
+```
 
 
 
