@@ -1,7 +1,7 @@
 ```javaScript
 const response = {
-status : 202,
-date:{
+ status : 202,
+ date: {
   name:"Arian Nazari",
   nickname: "<Ctrl+Z>",
   birthDay: "",
