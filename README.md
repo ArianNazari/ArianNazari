@@ -3,7 +3,7 @@ const response = {
  status : 202,
  date: {
   name:"Arian Nazari",
-  nickname: "<Ctrl+Z>",
+  nickname: "</Ctrl+Z>",
   birthDay: "2002 May 29 Wednesday",
   skils:"JS, React, HTML, CSS, , ...",
   university: "Azad Sari",
