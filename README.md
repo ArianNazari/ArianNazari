@@ -19,7 +19,7 @@ const response = {
   <br>
 
 
-<a>
+<span>
  
 ### 💻 AboutMe
 
@@ -32,4 +32,15 @@ const response = {
 
   </a>
 
+<br>
+  <br>
+  <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianNazari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArianNazari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+
+
+
+[![](https://visitcount.itsvg.in/api?id=ArianNazari&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
