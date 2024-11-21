@@ -18,12 +18,11 @@ I'm a Front-End Developer with a deep passion for the world of programming and w
 ## 🎯 My Goal:
 I’m focused on becoming a Senior Front-End Developer. I’m constantly learning and improving my skills, aiming to work on more complex, challenging projects. I’m also passionate about team leadership, code optimization, and designing scalable systems.💡💼
 
-If you're interested in checking out my projects or have any questions, feel free to reach out via [Email, LinkedIn, or any other social platform]. Let's connect! 📬
 <br>
 <br>
 
 ## 🚀 Let’s Connect!
-I’m always excited to connect with other professionals in the tech community. If you're interested in discussing potential collaborations, sharing knowledge, or just connecting over the world of web development, feel free to reach out!
+I’m always excited to connect with other professionals in the tech community. If you're interested in discussing potential collaborations, sharing knowledge, or just connecting over the world of web development, feel free to reach out! 📬
 <br>
 <br>
 
