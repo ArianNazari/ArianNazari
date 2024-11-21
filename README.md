@@ -17,7 +17,6 @@ I'm a Front-End Developer with a deep passion for the world of programming and w
 
 ## 🎯 My Goal:
 I’m focused on becoming a Senior Front-End Developer. I’m constantly learning and improving my skills, aiming to work on more complex, challenging projects. I’m also passionate about team leadership, code optimization, and designing scalable systems.💡💼
-
 <br>
 <br>
 
