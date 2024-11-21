@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm Arian Nazari!
 I'm a Front-End Developer with a deep passion for the world of programming and web development. Since I first discovered the world of coding, my enthusiasm for creating engaging user experiences and building user-friendly web applications has only grown. In my projects, I use HTML, CSS, JavaScript, and modern frameworks like React, Tailwind CSS, and Bootstrap to design and implement beautiful websites and web apps. 🌐🚀
-
 <br>
 <br>
-
 ## 🔧 My Skills:
 <p> - 🖥️📱 HTML5 & CSS3: Crafting structured and responsive layouts for web pages. </p>
 <p> - ⚡ JavaScript: Implementing complex logic and dynamic interactions for seamless user experiences. </p>
@@ -13,10 +11,8 @@ I'm a Front-End Developer with a deep passion for the world of programming and w
 <p> - 💻🛠️ Git & GitHub: Managing version control and collaborating on open-source projects. </p>
 <p> - 📦 NPM: Handling dependencies and automating workflows for streamlined development. </p>
 <p> - 🔍 Regex: Using regular expressions for advanced data processing and pattern matching. </p>
-
 <br>
 <br>
-
 ## 🎯 My Goal:
 I’m focused on becoming a Senior Front-End Developer. I’m constantly learning and improving my skills, aiming to work on more complex, challenging projects. I’m also passionate about team leadership, code optimization, and designing scalable systems. 💡💼
 
