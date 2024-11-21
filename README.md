@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Arian Nazari!
+### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I am Arian Nazari!
 I'm a Front-End Developer with a deep passion for the world of programming and web development. Since I first discovered the world of coding, my enthusiasm for creating engaging user experiences and building user-friendly web applications has only grown. In my projects, I use HTML, CSS, JavaScript, and modern frameworks like React, Tailwind CSS, and Bootstrap to design and implement beautiful websites and web apps. 🌐🚀
 <br>
 <br>
